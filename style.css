@@ -1,0 +1,10 @@
+/* styles.css */
+@font-face {
+    font-family: 'Monsieur';
+    src: url(./fonts/MonsieurLaDoulaise-Regular.ttf) format('truetype');
+}
+
+
+body h3 {
+    font-family: 'Monsieur', sans-serif;
+}
